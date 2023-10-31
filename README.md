@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               2 hrs 50 mins   ██████████████░░░░░░░░░░░   55.45 %
-sh               2 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.59 %
-Ezhil            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-ActionScript 3   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
