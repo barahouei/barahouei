@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 <!--START_SECTION:waka-->
 
 ```txt
@@ -11,7 +11,7 @@ Other      23 mins         ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+-->
 <!--
 **barahouei/barahouei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
